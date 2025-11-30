@@ -1,4 +1,4 @@
-This account is for my personal projects and learning cources. 
+This account is for my personal projects and learning courses. 
 
 May be something else but I'm not sure that I plan to publish anything here
 
