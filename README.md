@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+This account is for my personal projects and learning cources. 
+May be something else but I'm not sure that I plan to publish anything here
+
 <!--
 **Godim/Godim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
